@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+   font-size: 16px;
+margin-left: 8%;
+margin-right: 8%;
+text-align: justify;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.heding{
+    font-size: 30px;
+    color: brown;
+    font-weight: bold;
+    border-bottom: 4px solid brown;
+    
+}
+.p{
+    font-size: 17.2px;
+    font-weight: bold;
+    margin-top: 10px;
+    opacity: .7;
+}
+
+.p7{
+    font-size: 17.2px;
+    font-weight: bold;
+    color: black;
+}
+.info{
+    opacity: .6;
+
+}
