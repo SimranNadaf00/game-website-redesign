@@ -1,4 +1,5 @@
 Welcome to my freefire Game Website redesign!
+
 This project showcases my skills in UI/UX design, web development.
 This project is part of my academic work and for my personal portfolio.
 Please do not reuse without permission
